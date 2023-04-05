@@ -1,0 +1,13 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.todos{
+  background-color: rgb(16, 52, 52);
+  margin: 20px;
+  padding: 40px;
+  border-radius: 20px;
+}
